@@ -1,5 +1,7 @@
 # Audiobook
-﻿This GitHub repository consists of the supply code and documentation for an educational utility developed to make instructional mastering greater attractive and fun. The mission aimed to make use of Python programming with Tkinter and Threading modules to create a multifunctional software.
+The Audiobook project marks our initial venture into Python development, offering a platform for listening to books or PDFs. The Graphical User Interface (GUI) built using Tkinter facilitates user interaction. The application provides three primary functionalities: opening a PDF, listening to it, and reading it. To enable PDF reading, we employed the PyPDF2 library, while pyttsx3 was utilized for converting text to audio. This project represents a foundational yet essential application in our Python journey.
+
+
 
 
 <h2> Learning </h2>
